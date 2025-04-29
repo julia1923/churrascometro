@@ -10,8 +10,11 @@ Sistema simples desenvolvido para calcular a quantidade necessária de carne e b
 O cálculo foi baseado na seguinte lógica:
 
 🥩 Carne - 400g por pessoa (se mais de 6 horas: 650g)
+
 🍺 Cerveja - 1200ml por pessoa (se mais de 6 horas: 2000ml)
+
 🥤 Refrigerante/água - 1000ml por pessoa (se mais de 6 horas: 1500ml)
+
 👶 Crianças valem por 0,5
 
 ---
