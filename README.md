@@ -5,7 +5,7 @@ Projeto produzido durante o curso Programador BR orientado pelo instrutor Igor O
 
 ### 📋 Sobre o projeto
 
-Sistema simples desenvolvido para calcular a quantidade necessária de carne e bebida (alcoolicas e não alcoolicas) para um churrasco baseado na duração que terá o evento e na quantidade de pessoas adultas e crianças.
+Sistema simples desenvolvido para calcular a quantidade necessária de carne e bebida (alcoólicas e não alcoólicas) para um churrasco baseado na duração que terá o evento e na quantidade de pessoas adultas e crianças.
 
 O cálculo foi baseado na seguinte lógica:
 
